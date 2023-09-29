@@ -17,10 +17,10 @@
 - in another terminal, run
 
 ```bash
-curl -i http://localhost:8080;
-curl -i http://localhost:8080;
-curl -i http://localhost:8080;
-curl -i http://localhost:8080;
-curl -i http://localhost:8080;
-curl -i http://localhost:8080;
+curl -i http://localhost:8080/ping;
+curl -i http://localhost:8080/ping;
+curl -i http://localhost:8080/ping;
+curl -i http://localhost:8080/ping;
+curl -i http://localhost:8080/ping;
+curl -i http://localhost:8080/ping;
 ```
